@@ -123,3 +123,4 @@ MIT — see [`LICENSE`](LICENSE).
 <div align="center">
 <sub>Windows · Game asset tooling · Open Source · animation-clip-mass-export</sub>
 </div>
+⁠
